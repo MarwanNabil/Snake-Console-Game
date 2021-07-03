@@ -1,4 +1,4 @@
-This my 2nd Game in Console Games.
+#This my 2nd Game in Console using C++.
 
 I have Really experienced diffrent kind of projects , games are not that easy to do because you are dealing with movements
 behavior and coding.
